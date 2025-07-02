@@ -9,10 +9,9 @@ Your Satisfaction, Our Mission”</i></p>
 
   <!-- Navigation Links -->
   <div style="text-align:center; margin: 20px 0;">
-    <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/home.html#">Home</a>
-    <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/Review.html">Review</a>
-    <a style="margin-right: 20px; font-size:18px;" href="https://www.google.com/maps/place/Balan+mutton+stall/@9.9323774,78.1287662,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c5c7225f8b59:0x7c806a7217ac8178!8m2!3d9.9323774!4d78.1287662!16s%2Fg%2F11rpzg2yvf?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D">Location</a>
-    <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/Contact%20Us.html">Contact Us</a>
+
+    
+    <a style="margin-right: 20px; font-size:18px;" href="https://www.google.com/maps/place/Balan+mutton+stall/@9.9323774,78.1287662,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c5c7225f8b59:0x7c806a7217ac8178!8m2!3d9.9323774!4d78.1287662!16s%2Fg%2F11rpzg2yvf?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D">Click On To Location</a>
 	
   </div>
   
