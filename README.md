@@ -1,17 +1,17 @@
-  <div style="background-color:#00FA9A; padding: 40px 20px; text-align: center;">
+
 
 <div style="text-align:center;"><img src="img4.jpeg">
 </div>
 <h1 STYLE="text-align:center;font-size:25px;">BALAN MUTTON STALL</h1>
 <p style="text-align:center;font-size:25px;"><i>“Redefining Excellence in Every Order
 Commitment to Quality, Delivered Promptly<br>
-Your Satisfaction, Our Mission”</i></br></p></div>
+Your Satisfaction, Our Mission”</i></br></p>
 
   <!-- Navigation Links -->
   <div style="text-align:center; margin: 20px 0;">
     <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/home.html#">Home</a>
     <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/Review.html">Review</a>
-    <a style="margin-right: 20px; font-size:18px;" href="https://www.google.com/maps/place/Goripalayam+Market/@9.9336983,78.128022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c59487ff2187:0xf23c5afb3a3423cd!8m2!3d9.9336983!4d78.128022!16s%2Fg%2F1tkslsv7?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D">Location</a>
+    <a style="margin-right: 20px; font-size:18px;" href="https://www.google.com/maps/place/Balan+mutton+stall/@9.9323774,78.1287662,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c5c7225f8b59:0x7c806a7217ac8178!8m2!3d9.9323774!4d78.1287662!16s%2Fg%2F11rpzg2yvf?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D">Location</a>
     <a style="margin-right: 20px; font-size:18px;" href="file:///C:/Users/hp/Desktop/Contact%20Us.html">Contact Us</a>
 	
   </div>
@@ -100,7 +100,6 @@ Your Satisfaction, Our Mission”</i></br></p></div>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; padding-top: 20px;">
 
       <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 280px; background-color: #ffffff;">
-        <img src="contact-profile.AVIF" alt="Contact Profile" style="width:100px;height:100px;border-radius:50%; object-fit: cover;">
         <h3 style="font-size:20px; margin-top: 10px;">Mr. Manikandan</h3>
         <p style="font-size:16px; color: #555;">Owner</p>
         <p style="margin: 10px 0;"> <a href="tel:+919876543210" style="text-decoration:none;color:#000;">+91 98765 43210</a></p>
@@ -111,8 +110,6 @@ Your Satisfaction, Our Mission”</i></br></p></div>
     </div>
   </div>
 
-</body>
-</html>
 <p style="text-align:center;font-size:25px;"><i>“Trust Us, Every Time”</i></p>
 
 
