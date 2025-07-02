@@ -5,7 +5,7 @@
 <h1 STYLE="text-align:center;font-size:25px;">BALAN MUTTON STALL</h1>
 <p style="text-align:center;font-size:25px;"><i>“Redefining Excellence in Every Order
 Commitment to Quality, Delivered Promptly<br>
-Your Satisfaction, Our Mission”</i></br></p>
+Your Satisfaction, Our Mission”</i></p>
 
   <!-- Navigation Links -->
   <div style="text-align:center; margin: 20px 0;">
